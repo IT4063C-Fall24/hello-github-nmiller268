@@ -24,20 +24,23 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 ## 💭 Reflection and Self Assessment
 
 **I learned:** (repeat as needed)
-- .
+- I learned how to download github desktop and what github classroom is.
+I learned what exactly git was and that I needed to download it before being able to clone the repo onto my laptop.
 
 **I struggled with:** (repeat as needed)
-- .
+- Making sure the push actually happened. I wasnt too sure at first if I did everything right. 
 
 **I need the instructor to help me with:** (repeat as needed)
-- .
+- N/A at this time. 
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [20 ] out of 20.
 
 
 ## 📚 References and Citations
 **I used the following links, books, and other resources in my work:** (repeat as needed)
-- .
+- https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository?tool=webui 
+- https://docs.github.com/en/get-started/using-git 
+- https://git-scm.com/downloads 
   
 **I received help from the following people:** (repeat as needed)
-- . 
+- N/A
